@@ -1,0 +1,41 @@
+PA03610-B101 S1100i 
+PA03610-0001 ScanSnap Case 
+SC-CLE-SS ScanSnap Cleaning Kit 
+PA03360-0013 ScanSnap Carrier sheets (five sheets) 
+UP-36-GOLD-S1100I Silver Service upgrade 
+
+PA03688-B001 iX100 
+PA03688-0001 ScanSnap hard case 
+PA03688-0011 ScanSnap soft case 
+SC-CLE-SS ScanSnap Cleaning Kit 
+PA03360-0013 ScanSnap Carrier sheets (five sheets) 
+UP-36-GOLD-iX100 Silver Service upgrade 
+
+PA03643-B001 S1300i 
+SC-CLE-SS ScanSnap Cleaning Kit 
+PA03541-0004 ScanSnap Soft Case 
+CON-3541-010A ScanSnap Consumable Kit 
+UP-48-SILV-S1300i Silver Service upgrade 
+
+PA03643-B011 S1300i Deluxe 
+SC-CLE-SS ScanSnap Cleaning Kit 
+PA03541-0004 ScanSnap Soft Case 
+CON-3541-010A ScanSnap Consumable Kit 
+UP-48-SILV-S1300i Silver Service upgrade 
+
+PA03656-B001 iX500 
+CON-3656-001A ScanSnap Consumable Kit 
+PA03360-0013 ScanSnap Carrier sheets (five sheets) 
+PA03951-0651  ScanSnap Bag 
+SC-CLE-SS ScanSnap Cleaning Kit 
+UP-60-GOLD-IX500 Gold Service Upgrade 
+UP-60-PLAT-IX500 Platinum Service Upgrade 
+
+PA03656-B011 iX500 Deluxe 
+CON-3656-001A ScanSnap Consumable Kit 
+PA03360-0013 ScanSnap Carrier sheets (five sheets) 
+PA03951-0651  ScanSnap Bag 
+SC-CLE-SS ScanSnap Cleaning Kit 
+UP-60-GOLD-IX500 Gold Service Upgrade 
+UP-60-PLAT-IX500 Platinum Service Upgrade 
+

@@ -1,0 +1,10 @@
+CoolBlue http://www.scannercenter.nl query True #direct-naar-accessoires Sorry, we hebben niets kunnen vinden voor
+BOL https://www.bol.com/nl/ Ntt False False result 
+CentralPoint https://www.centralpoint.nl/ search False False result
+Insight http://nl.insight.com/ home-search-input False #product-accessories-tab Uw zoekopdracht voor 
+Misco http://www.misco.nl/ q True False result 
+BuyItDirect https://www.buyitdirect.com/ oHeader$txtKeyword False False Er zijn geen producten die voldoen aan uw filter 
+AcesDirect https://www.acesdirect.nl/ q True #accessoires Zoekresultaten 
+Bechtle https://www.bechtle.nl/ searchCode True #f2 search
+MaxICT http://maxict.nl/ q True #accessoires gevonden
+Descannerspecialist http://www.descannerspecialist.nl/ filter_name True False Geen product(en) gevonden

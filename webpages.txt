@@ -1,0 +1,23 @@
+CoolBlue_nl http://www.scannercenter.nl
+BOL_nl https://www.bol.com/nl/
+CentralPoint_nl https://www.centralpoint.nl/
+Insight_nl http://nl.insight.com/ 
+Misco_nl http://www.misco.nl/ 
+BuyItDirect_nl https://www.buyitdirect.com/ 
+AcesDirect_nl https://www.acesdirect.nl/
+Bechtle_nl https://www.bechtle.nl/
+MaxICT_nl http://maxict.nl/
+Descannerspecialist_nl http://www.descannerspecialist.nl/ 
+Inmac_fr wstore http://www.inmac-wstore.com
+Misco_fr http://www.misco.fr
+Insight_fr http://fr.insight.com
+Pixmania_fr www.pixmania.fr
+LDLC_fr www.ldlc.com
+Compufirst_fr www.compufirst.com
+Bechtle_fr www.bechtle.fr
+Redcorp_be http://www.redcorp.com
+Backoffice_fr http://fr.backoffice.be
+Coolblue_be http://www.scannercenter.be
+Execute_be http://www.execute.be
+Bechtle_be https://www.bechtle.be
+Webshop_be Eurosys	http://webshop.eurosys.be/
